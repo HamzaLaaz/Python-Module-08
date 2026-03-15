@@ -1,0 +1,6 @@
+pip install pandas              # install a package
+pip install pandas==2.1.0       # install a specific version
+pip install -r requirements.txt # install everything from a file
+pip list                        # show installed packages
+pip show pandas                 # show info about one package
+pip freeze                      # list all installed packages with versions
